@@ -8,8 +8,8 @@ behandelt werden. Die Daten-Sets kommen aus unterschiedlichen Quellen (Kaggle)
 
 Die Projekte bestehen aus verschiedenen Themen, wie Finanz, Kundenverhalten, Wissenschaft, Spam-Email und Bankenwesen.     
 
-Zeitraum:			12/2019 – 09/2021
-Einsatz als:	Data Analyst
+Zeitraum: 12/2019 – 09/2021
+Einsatz als: Data Analyst
 
 
 Projektaufgaben:
