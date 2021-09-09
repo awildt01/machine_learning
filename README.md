@@ -30,6 +30,12 @@ Projektaufgaben:
 Technologie: Jupyter, Pandas, Numpy, Matplotlib, Seaborn
 
 
+
+
+
+
+
+
 An dieser Stelle habe ich meine Bachelorarbeit eigefügt. Die Arbeit wurde in Zusammenarbeit mit der Deutschen Sporthochschule Köln und der Technischen Hochschule Köln erstellt.
 Bei der Bachelorarbeit geht es um die Konzeption und Entwicklung einer Software, mit der Daten aus der Fußball-Bundeliga 2011–2012 mit Hilfe einer Heatmap erzeugt werden.
 Zuerst wurden zwei Cluster-Methoden betrachtet, nämlich die Density-Based Spatial Clustering of Applications with Noise (DBSCAN) und der Kerndichtschätzer 
