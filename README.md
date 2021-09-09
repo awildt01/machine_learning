@@ -14,20 +14,20 @@ Einsatz als:	Data Analyst
 
 Projektaufgaben:
 
-        -     Datenaufbereitung 
-				-     Fehlende Daten (Näherungswerte, berechnete Werte, Werte streichen)
-				-     Datenbearbeitung 
-				-     Auswahl von Algorithmen
-				-     Lineare Regression
-				-     Logistische Regression
-				-     K Means Clustering
-				-     Naive Bayes
-				-     Hierarchical Clusterin
-				-     Visualisierung (Matplotlib, Seaborn)
-				-     Auswertung der Daten
+  	- Datenaufbereitung 
+	- Fehlende Daten (Näherungswerte, berechnete Werte, Werte streichen)
+	- Datenbearbeitung 
+	- Auswahl von Algorithmen
+	- Lineare Regression
+	- Logistische Regression
+	- K Means Clustering
+	- Naive Bayes
+	- Hierarchical Clusterin
+	- Visualisierung (Matplotlib, Seaborn)
+	- Auswertung der Daten
         
         
-Technologie:			Jupyter, Pandas, Numpy, Matplotlib, Seaborn
+Technologie: Jupyter, Pandas, Numpy, Matplotlib, Seaborn
 
 
 An dieser Stelle habe ich meine Bachelorarbeit eigefügt. Die Arbeit wurde in Zusammenarbeit mit der Deutschen Sporthochschule Köln und der Technischen Hochschule Köln erstellt.
