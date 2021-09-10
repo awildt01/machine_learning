@@ -6,6 +6,7 @@ behandelt werden. Die Daten-Sets kommen aus unterschiedlichen Quellen (Kaggle)
   - https://guides.library.cmu.edu/machine-learning/datasets, 
   - https://visualdata.io/discovery
   - https://towardsai.net/p/machine-learning/best-datasets-for-machine-learning-and-data-science-d80e9f030279 
+  - https://datasetsearch.research.google.com/
   - und verschiden andere Online Daten Banken. 
 
 Die Projekte bestehen aus verschiedenen Themen, wie Finanz, Kundenverhalten, Wissenschaft, Spam-Email und Bankenwesen.     
