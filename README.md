@@ -4,7 +4,9 @@ Dies ist eine Einstiegsvorlage für meine Data-Science-Projekte. Es handelt sich
 behandelt werden. Die Daten-Sets kommen aus unterschiedlichen Quellen (Kaggle) 
   - https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase,
   - https://guides.library.cmu.edu/machine-learning/datasets, 
-  - https://visualdata.io/discovery und verschiden andere Online Daten Banken. 
+  - https://visualdata.io/discovery
+  - https://towardsai.net/p/machine-learning/best-datasets-for-machine-learning-and-data-science-d80e9f030279 
+  - und verschiden andere Online Daten Banken. 
 
 Die Projekte bestehen aus verschiedenen Themen, wie Finanz, Kundenverhalten, Wissenschaft, Spam-Email und Bankenwesen.     
 
