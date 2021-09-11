@@ -1,7 +1,8 @@
 Projekten
 
 Dies ist eine Einstiegsvorlage für meine Data-Science-Projekte. Es handelt sich um eigene Projekte, die ich ausgewäht habe, wo verschiedene Aufgaben in dem Bereich Data Science 
-behandelt werden. Die Daten-Sets kommen aus unterschiedlichen Quellen (Kaggle) 
+behandelt werden. Die Daten-Sets kommen aus unterschiedlichen Quellen 
+  - Kaggle
   - https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase,
   - https://guides.library.cmu.edu/machine-learning/datasets, 
   - https://visualdata.io/discovery
