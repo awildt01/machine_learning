@@ -1,5 +1,8 @@
 Projekten
 
+![image](https://user-images.githubusercontent.com/18030121/163600224-8d7ddffb-3d0d-4a91-823c-1f635025e2d8.png)
+
+
 Dies ist eine Einstiegsvorlage für meine Data-Science-Projekte. Es handelt sich um eigene Projekte, die ich ausgewäht habe, wo verschiedene Aufgaben in dem Bereich Data Science 
 behandelt werden. Die Daten-Sets kommen aus unterschiedlichen Quellen 
   - Kaggle
