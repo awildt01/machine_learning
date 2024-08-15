@@ -20,7 +20,7 @@ Zeitraum: 12/2019 – 09/2021
 Einsatz als: Data Analyst
 
 
-Projektaufgaben:
+Projektaufgaben: 
 
   	- Datenaufbereitung 
 	- Fehlende Daten (Näherungswerte, berechnete Werte, Werte streichen)
